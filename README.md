@@ -10,7 +10,7 @@
 List all the pre-requisites the system needs to develop this project.
 - [Node.js](https://nodejs.org/en)
 - [Git](https://git-scm.com/)
-- IDLE or code editor of your choice.
+- IDE or code editor of your choice.
 
 ###  :electric_plug: Installation and Development Environment
 - Click the "Fork" button to create your own copy of the repository.
@@ -22,9 +22,9 @@ $ git clone https://github.com/<your_username>/Library-Management-System.git
 ```
 $ cd Library-Management-System
 ```
-- Then you need to install the dependenciesc by executing the following command in bash, terminal or your prefered means :
+- Then you need to install the dependencies by executing the following command in bash, terminal or your prefered means :
 ```
-$ npm install -y
+$ npm install
 ```
 - Then to run your Project you have to execute the following command :
 ```
